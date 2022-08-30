@@ -1,0 +1,34 @@
+{{date.DATA}}
+所在城市：{{C_ShengFen.DATA}} · {{C_ChengShi.DATA}}
+今日天气：{{C_TianQi.DATA}}
+今日降雨概率：{{C_JiangYu.DATA}}%
+今日最低气温：{{C_ZuiDi.DATA}}
+今日最高气温：{{C_ZuiGao.DATA}}
+出行建议：{{C_ChuXing.DATA}}
+
+恋爱 {{C_Love.DATA}} 天
+生日 {{birthday1.DATA}} 天
+生日 {{birthday2.DATA}} 天
+
+
+金山词霸：{{C_CiBa.DATA}}
+早安心语：{{C_ZaoAn.DATA}}
+晚安心语：{{C_WanAn.DATA}}
+
+
+今日综合指数：{{C_ZongHe.DATA}}
+今日爱情指数：{{C_AiQing.DATA}}
+今日工作指数：{{C_GongZuo.DATA}}
+今日财运指数：{{C_CaiYun.DATA}}
+今日健康指数：{{C_JianKang.DATA}}
+今日星座运势：{{C_XingZuo.DATA}}
+
+
+舔狗日记：{{C_TianGou.DATA}}
+土味情话：{{C_TuWei.DATA}}
+表白文案：{{C_BiaoBai.DATA}}
+
+
+自定义文字01：{{C_String01.DATA}}
+自定义文字02：{{C_String02.DATA}}
+自定义文字03：{{C_String03.DATA}}
